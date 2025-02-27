@@ -1,0 +1,15 @@
+{
+  "name": "ice-cream-tracker",
+  "version": "1.0.0",
+  "description": "Ice cream inventory dashboard for client-specific tracking with real-time updates",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "xlsx": "^0.18.5"
+  },
+  "author": "HugoBoss",
+  "license": "MIT"
+}
