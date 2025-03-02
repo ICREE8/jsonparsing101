@@ -15,3 +15,5 @@ A simple tool to track ice cream stock using Excel and manual inputs, with a vis
 3. Create an `inventory.xlsx` file with columns "flavor" and "quantity" (e.g., "Vanilla" | 100).
 4. Start the server: `node src/modules/server.js`.
 5. Open `index.html` in a browser or serve it via a static server.
+
+This is only a practice run for parsing with xlxs documents.
